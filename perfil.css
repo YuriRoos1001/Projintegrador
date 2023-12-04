@@ -28,7 +28,7 @@ header {
     padding: 2px 0px 2px 15px;
     border:solid 1px #fff;
     border-radius: 25px;
-    background-color: solid rgb(141, 42, 190);
+    background-color: rgb(141, 42, 190);
     color: white;
 }
 ::placeholder { /* Muda a cor do placeholder do cabeçalho*/
